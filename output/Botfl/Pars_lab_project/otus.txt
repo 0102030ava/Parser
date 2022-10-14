@@ -1,0 +1,568 @@
+
+<!DOCTYPE html>
+<!--
+
+
+             /$$    /$$ /$$             /$$                     /$$
+            | $$   | $$|__/            | $$                    | $$
+            | $$   | $$ /$$ /$$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$$
+            |  $$ / $$/| $$| $$__  $$|_  $$_/   /$$__  $$ /$$__  $$
+             \  $$ $$/ | $$| $$  \ $$  | $$    | $$$$$$$$| $$  | $$
+              \  $$$/  | $$| $$  | $$  | $$ /$$| $$_____/| $$  | $$
+               \  $/   | $$| $$  | $$  |  $$$$/|  $$$$$$$|  $$$$$$$
+                \_/    |__/|__/  |__/   \___/   \_______/ \_______/
+
+
+ Interested in our source? Help us out by improving it — b3Bwb3J0dW5pdGllc0B2aW50ZWQuY29t==
+
+
+-->
+
+<html class="flavour-clothing" lang="it">
+
+<head itemscope itemtype="http://schema.org/WebSite">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title></title>
+  <meta name="company" itemprop="name" content="Vinted"/>
+  <meta name="keywords" content="vendi vestiti online, armadio, scambio, acquisti, moda, stile, elegante, di seconda mano, acquista articoli di seconda mano, abbigliamento usato, idee di stile, vendi vestiti di seconda mano, moda vintage, negozio online"/>
+  <meta name="description" content="Entra nella community con oltre 65 milioni di amanti della moda second-hand. Dai una seconda vita ai vestiti che hai amato e guadagna vendendo i capi che non metti più."/>
+
+
+  <link hreflang="es-es" href="https://www.vinted.es/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="fr-be" href="https://www.vinted.be/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="fr-lu" href="https://www.vinted.lu/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="nl-nl" href="https://www.vinted.nl/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="lt-lt" href="https://www.vinted.lt/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="de-de" href="https://www.vinted.de/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="de-at" href="https://www.vinted.at/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="it-it" href="https://www.vinted.it/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="en-gb" href="https://www.vinted.co.uk/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="pt-pt" href="https://www.vinted.pt/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="en-us" href="https://www.vinted.com/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="cs-cz" href="https://www.vinted.cz/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="sk-sk" href="https://www.vinted.sk/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="pl-pl" href="https://www.vinted.pl/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="sv-se" href="https://www.vinted.se/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="hu-hu" href="https://www.vinted.hu/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" /><link hreflang="fr-fr" href="https://www.vinted.fr/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" rel="alternate" />
+
+  <meta name="viewport" content="width=device-width, maximum-scale=1.0">
+
+  <meta name="twitter:app:country" content="FR" />
+<meta name="twitter:app:name:iphone" content="Vinted" />
+<meta name="twitter:app:id:iphone" content="632064380" />
+<meta name="twitter:app:name:googleplay" content="Vinted" />
+<meta name="twitter:app:id:googleplay" content="fr.vinted" />
+<meta name="twitter:app:url:iphone" content="vintedfr://item?id=2176958165&amp;portal=fr" />
+<meta name="twitter:app:url:googleplay" content="vintedfr://item?id=2176958165&amp;portal=fr" />
+<link rel="alternative" href="android-app://fr.vinted/vintedfr/item?id=2176958165" />
+  <meta name="twitter:site" content="@vinted">
+
+  <meta property="og:site_name" content="Vinted" />
+<meta property="og:image" content="https://static.vinted.com/assets/open-graph/it-901c63f8e7a3baddb32a7367ee22d310460892369b95bf8b02580943ef729d46.jpg" />
+<meta property="fb:app_id" content="502159173164171" />
+<meta property="og:url" content="https://www.vinted.it/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" />
+<link rel="canonical" href="https://www.vinted.it/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cU7QDHLXhgW7DSsEmkrRrn_YHoQkeyB0ZnSScwv59Wj2l7rWanDcDe7WWKV7RO4exWnNVF5aPXIZDnZIB74rXw" />
+
+  <script>(function(root) { root.MD = {} })(this);</script>
+
+  <link rel="stylesheet" media="screen" href="https://static.vinted.com/assets/application-405889970ce7252051e2db461b8024b0f8fc37e975be86c161a10231c6de708d.css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://static.vinted.com/assets/favicon/default/apple-touch-icon-304950b8dc9146734ffe4fee1d5837f698492a61a5b562369eb32e212a3ea306.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://static.vinted.com/assets/favicon/default/favicon-32x32-edb2781a59b525a45c4ac95c533ff7ebde37fbb82b15792aac70d56285a05938.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://static.vinted.com/assets/favicon/default/favicon-16x16-89ed93f213c49d79d2808b5e3b9335ed5500bd265d58aecd54f2ea476a99badb.png">
+  <link rel="shortcut icon" href="https://static.vinted.com/assets/favicon/default/favicon-07de5bb1414cfb5bdfe4d6dbf6a3bbb7c54cb6d54d784ce1594db8c5c712e055.ico">
+
+  <meta name="theme-color" content="#007782">
+
+  
+  
+
+  <script src="https://cdn.cookielaw.org/consent/tcf.stub.js" type="text/javascript" charset="UTF-8"></script>
+
+    <script>
+    var OneTrust = {
+      dataSubjectParams: { id: "95b4e25c-3753-4b64-b612-f9d02e77ab53", isAnonymous: true }
+    };
+  </script>
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="1b74cfac-ad4f-47c1-a3c9-d71707ac085c"></script>
+
+<script type="text/javascript">
+  function hideConsentBanner() {
+    var consentBanner = document.querySelector('#onetrust-consent-sdk');
+
+    if (consentBanner) {
+      consentBanner.style.display = 'none';
+    }
+  }
+
+  function overridePolicyLink() {
+    var policyLink = document.querySelector('#onetrust-policy-text > a');
+
+    if (policyLink) {
+      policyLink.href = '//' + window.location.hostname + '/cookie-policy';
+    }
+  }
+
+  function getCookie(name) {
+    var value = '; ' + document.cookie;
+    var parts = value.split('; ' + name + '=');
+
+    if (parts.length >= 2) return parts.pop().split(';').shift();
+  }
+
+  function addRejectAllButton() {
+    var buttonText = Optanon.GetDomainData().BannerRejectAllButtonText;
+
+    if (buttonText) {
+      var newButton = document.createElement('button');
+
+      newButton.setAttribute('id', 'onetrust-reject-all-handler');
+      newButton.innerText = buttonText;
+      newButton.onclick = function(one) {
+        OneTrust.RejectAll();
+      }
+
+      document.getElementById('onetrust-policy').prepend(newButton);
+    }
+  }
+
+  function sendConsentReceipt(userId) {
+    OneTrust.setDataSubjectId(userId);
+
+    var consentReceiptData = OneTrust.GetDomainData().ConsentIntegrationData;
+    consentReceiptData.consentPayload.identifier = userId;
+    consentReceiptData.consentPayload.isAnonymous = false;
+
+    var beacon = new XMLHttpRequest();
+    beacon.open('POST', consentReceiptData.consentApi, true);
+    beacon.setRequestHeader('Content-Type', 'application/json');
+    beacon.send(JSON.stringify(consentReceiptData.consentPayload));
+  }
+
+  function OptanonWrapper() {
+
+    window.dispatchEvent(new Event('bannerLoaded'));
+
+    overridePolicyLink();
+
+
+  }
+</script>
+
+<script type="text/javascript">
+  function onBannerLoaded() {
+    var consentId = Optanon.getDataSubjectId();
+    var cookieOptanonAlertBoxClosedDate = getCookie('OptanonAlertBoxClosed');
+    var preferenceCenterDescription = document.getElementById('ot-pc-desc');
+    var consentIdExists = preferenceCenterDescription.innerHTML.indexOf(consentId) !== -1;
+
+    if (consentIdExists) {
+      window.removeEventListener('bannerLoaded', onBannerLoaded, false);
+
+      return;
+    }
+
+    if (!cookieOptanonAlertBoxClosedDate) return;
+
+    var lastConsentTime = new Date(cookieOptanonAlertBoxClosedDate);
+    var consentIdTitle = '';
+    var consentDateTitle = '';
+
+    switch (document.documentElement.lang) {
+      case 'es':
+        consentIdTitle = 'ID de su consentimiento';
+        consentDateTitle = 'Fecha del consentimiento';
+        break;
+      case 'fr':
+        consentIdTitle = 'Identifiant du consentement';
+        consentDateTitle = 'Date du consentement';
+        break;
+      default:
+        consentIdTitle = 'Consent ID';
+        consentDateTitle = 'Consent Date';
+        break;
+    }
+
+    preferenceCenterDescription.innerHTML +=
+      '</br></br>' +
+      '<b>' + consentIdTitle + ': </b>' + consentId +
+      '</br>' +
+      '<b>' + consentDateTitle + ': </b>' + lastConsentTime;
+  }
+
+  window.addEventListener('bannerLoaded', onBannerLoaded);
+</script>
+
+
+
+
+    <script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script>
+  var adPlacements = {};
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  googletag.cmd.push(function() {
+    googletag.pubads().enableSingleRequest()
+
+      googletag.pubads().setRequestNonPersonalizedAds(1)
+
+    googletag.pubads().disableInitialLoad()
+
+    var _YB = _YB || {
+    bm: function() {
+      return (Math.random() >= 0.1 ? '1' : '0');
+    },
+    ab: function() {
+      return (_YB.dool ? 'b' : 'a' + Math.floor(Math.random() * 10));
+    },
+    dc: function() {
+      return (_YB.dool ? 'd' : 'c' + Math.floor(Math.random() * 20));
+    },
+    mx: function() {
+      return(!_YB.dool ? 'x' : 'm' + Math.floor(Math.random() * 180));
+    },
+    tt: function() {
+      return('tt' + Math.floor(Math.random() * 10));
+    },
+    dool: Math.random() >= 0.1
+};
+
+var _yt = new Date(),
+    yb_th = _yt.getUTCHours() - 8,
+    yb_tm = _yt.getUTCMinutes(),
+    yb_wd = _yt.getUTCDay();
+
+if (yb_th < 0) {
+  yb_th = yb_th + 24;
+  yb_wd -= 1;
+}
+
+if (yb_wd < 0) {
+  yb_wd = yb_wd + 7;
+}
+
+googletag.pubads().setTargeting('yb_bm', _YB.bm());
+googletag.pubads().setTargeting('yb_ab', _YB.ab());
+googletag.pubads().setTargeting('yb_dc', _YB.dc());
+googletag.pubads().setTargeting('yb_mx', _YB.mx());
+googletag.pubads().setTargeting('yb_tt', _YB.tt());
+googletag.pubads().setTargeting('yb_ff', '' + Math.round(Math.random()));
+googletag.pubads().setTargeting('yb_th', yb_th.toString());
+googletag.pubads().setTargeting('yb_tm', yb_tm.toString());
+googletag.pubads().setTargeting('yb_wd', yb_wd.toString());
+
+
+
+
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+  <script src="https://boot.pbstck.com/v1/tag/6990de06-43b4-4b6e-aa67-5169f9feef26" async="async"></script>
+
+<script type="text/plain" class="optanon-category-C0004">
+  // Load the Amazon Publisher Services (APS) JavaScript Library
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+  // Initialize the Amazon Publisher Services (APS) JavaScript Library
+  apstag.init({
+    pubID: 3863,
+    adServer: 'googletag',
+    deals: true,
+  });
+</script>
+<script src="https://vinted-core-assets.s3.eu-central-1.amazonaws.com/ads/prebid.js" async="async"></script>
+
+<script>
+  var pbjs = pbjs || {};
+  pbjs.que = pbjs.que || [];
+
+  pbjs.que.push(function() {
+    pbjs.setConfig({
+      priceGranularity: {
+        buckets: [
+          {
+            precision: 2,
+            min: 0,
+            max: 20,
+            increment: 0.01
+          },
+          {
+            precision: 2,
+            min: 21,
+            max: 99,
+            increment: 1
+          }
+        ]
+      },
+      enableSendAllBids: false,
+      currency: {
+        adServerCurrency: 'EUR',
+        granularityMultiplier: 1
+      },
+      timeoutBuffer: 200,
+      userSync: {
+        filterSettings: {
+          iframe: {
+            bidders: '*',
+            filter: 'include'
+          }
+        },
+        userIds: [
+            {
+              name: 'id5Id',
+              params: {
+                partner: 700,
+              },
+              storage: {
+                type: 'html5',
+                name: 'id5id',
+                expires: 90,
+                refreshInSeconds: 8*3600
+              }
+            },
+            {
+              name: 'criteo',
+            },
+        ],
+        auctionDelay: 50
+      },
+        consentManagement: {
+          gdpr: {
+            cmpApi: 'iab',
+            timeout: 10000,
+            defaultGdprScope: true,
+          },
+          usp: {
+            cmpApi: 'iab',
+            timeout: 10000,
+          }
+        }
+    });
+  });
+</script>
+
+
+
+
+  <script type="text/plain" class="optanon-category-C0004" async="async" src="https://confiant-integrations.global.ssl.fastly.net/BvGg6QCjGuFUb4-LOhdNdnITfpg/gpt_and_prebid/config.js"></script>
+
+
+
+
+  <meta name="google-site-verification" content="FJjA_qY1Dd1-_h87LS6OqkZjFFKIOQrkjJF_adbOnhM" />
+
+<meta name="p:domain_verify" content="139da5127bc69820be6df9dff201f466"/>
+
+    <script src="https://www.datadoghq-browser-agent.com/datadog-rum.js"  type="text/javascript"></script>
+
+    <script>
+      window.DD_RUM && window.DD_RUM.init({
+        clientToken: 'pub9fd180c090593448102410bf135f044e',
+        applicationId: 'b90722a0-1c29-48b4-af9c-34fffb86338b',
+        site: 'datadoghq.eu',
+        sampleRate: 1.5,
+        replaySampleRate: 0,
+        trackInteractions: false,
+        env: 'fr',
+        service: 'core-rails',
+      });
+    </script>
+
+  
+</head>
+
+
+<body class="u-background-white fullpage-layout browser-ios">
+  
+
+  <script type="application/json" id="js-react-on-rails-context">{"railsEnv":"production","inMailer":false,"i18nLocale":"it-fr","i18nDefaultLocale":"fr","rorVersion":"12.2.0","rorPro":false,"href":"https://www.vinted.it/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans","location":"/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans","scheme":"https","host":"www.vinted.it","port":null,"pathname":"/enfants/filles/robes/robes-courtes/2176958165-magnifique-robe-de-la-marque-ptit-mome-taille-14-ans","search":null,"httpAcceptLanguage":null,"currency":"EUR","portal":"fr","flavour":"clothing","sandbox":false,"development":false,"catalogRootPath":"/vetements","serverSide":false}</script>
+<div id="FakeAbTestTracking-react-component-f110e185-368d-4f15-af32-8655fcf6aee1"></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="FakeAbTestTracking" data-dom-id="FakeAbTestTracking-react-component-f110e185-368d-4f15-af32-8655fcf6aee1">{}</script>
+      
+
+  <div id="InAppMessage-react-component-152d3b3e-019b-422e-85e6-d0b2dcb931e1"></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="InAppMessage" data-dom-id="InAppMessage-react-component-152d3b3e-019b-422e-85e6-d0b2dcb931e1">{}</script>
+      
+
+
+    <div class="l-header">
+  <header class="l-header__main">
+    <div class="container u-flexbox u-align-items-center u-fill-height">
+      <div class="l-header__content">
+        <div id="HeaderLogo-react-component-6e1dcbfe-ab17-4d6f-9a21-2299ff7c2bd1"></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="HeaderLogo" data-dom-id="HeaderLogo-react-component-6e1dcbfe-ab17-4d6f-9a21-2299ff7c2bd1">{"portal":"fr"}</script>
+      
+
+
+      </div>
+    </div>
+  </header>
+</div>
+
+
+
+
+
+  <main class="site">
+    <div class="site-wrapper">
+      
+    
+  <div id="Advertisement-react-component-bbff73c0-28b2-4c79-910b-e6d90ce1b3b7"></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="Advertisement" data-dom-id="Advertisement-react-component-bbff73c0-28b2-4c79-910b-e6d90ce1b3b7">{"id":"ad-leaderboard","shape":"leaderboard","railsComponent":true,"mediation":null}</script>
+      
+
+
+
+<section class="site-content">
+  <div class="container">
+    <div class="">
+      
+    </div>
+
+    <div class="row u-position-relative">
+      <section id="content" class="grid12 site-content__content-section">
+        <div class="body-content">
+            
+            
+            
+
+          
+<div class="small-container u-ui-padding-vertical-x2-large u-text-center">
+  <div class="c-text--heading c-text--left c-text">È il momento di aggiornare il tuo browser!</div>
+
+  <div class="u-ui-margin-vertical-large">
+    <div class="c-text--body c-text--center c-text">La durata del browser è terminata. Se desideri continuare a navigare su vinted.it, aggiorna il tuo browser.</div>
+  </div>
+
+  <div class="u-ui-margin-bottom-x2-large">
+    <div class="c-text--title c-text--left c-text">Scegli il tuo preferito:</div>
+  </div>
+
+  <div class="row">
+    <div class="grid4">
+      <a href="https://www.google.com/chrome">
+        <div class="u-ui-margin-bottom-regular">
+          <div class="c-image--x2-large c-image c-image--scaled c-image--cover" style="">
+  <img class="c-image__content" data-src="https://static.vinted.com/assets/browser-logos/chrome-9da96d894d8d67a16fa9f1f12acb40c8a1124706327f6d2ec57895d90fb446e3.svg" src="https://static.vinted.com/assets/browser-logos/chrome-9da96d894d8d67a16fa9f1f12acb40c8a1124706327f6d2ec57895d90fb446e3.svg" />
+
+</div>
+        </div>
+
+        <div class="c-text--body c-text--left c-text c-text--bold">Google Chrome</div>
+      </a>
+    </div>
+
+    <div class="grid4">
+      <a href="https://www.mozilla.org/en-US/firefox/new/">
+        <div class="u-ui-margin-bottom-regular">
+          <div class="c-image--x2-large c-image c-image--scaled c-image--cover" style="">
+  <img class="c-image__content" data-src="https://static.vinted.com/assets/browser-logos/firefox-80991f7b9dc94682cfc4e7f216293fbf8caca1729c45396882be7ba8dfc71ea6.svg" src="https://static.vinted.com/assets/browser-logos/firefox-80991f7b9dc94682cfc4e7f216293fbf8caca1729c45396882be7ba8dfc71ea6.svg" />
+
+</div>
+        </div>
+
+        <div class="c-text--body c-text--left c-text c-text--bold">Mozilla Firefox</div>
+      </a>
+    </div>
+
+    <div class="grid4">
+      <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">
+        <div class="u-ui-margin-bottom-regular">
+          <div class="c-image--x2-large c-image c-image--scaled c-image--cover" style="">
+  <img class="c-image__content" data-src="https://static.vinted.com/assets/browser-logos/edge-34a5da1c0a193bca80b40e72639513c3be2518a6ac17c3e594d7f44b270e1cdb.svg" src="https://static.vinted.com/assets/browser-logos/edge-34a5da1c0a193bca80b40e72639513c3be2518a6ac17c3e594d7f44b270e1cdb.svg" />
+
+</div>
+        </div>
+
+        <div class="c-text--body c-text--left c-text c-text--bold">Microsoft Edge</div>
+      </a>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </section>
+
+    </div>
+  </div>
+</section>
+
+      
+    </div>
+  </main>
+
+  
+  <div id="PolicyFooter-react-component-d4515c04-55fa-4e4a-bd4b-4f92521d35fa"></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="PolicyFooter" data-dom-id="PolicyFooter-react-component-d4515c04-55fa-4e4a-bd4b-4f92521d35fa">{"isDigitalLawEnabled":true,"isBusinessInfoLinksEnabled":null,"onlineComplaintUrl":null,"portalMergeTargetUrl":"","isStatic":false,"noDivider":false}</script>
+      
+
+
+  
+<aside class="site__scripts">
+  <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=Promises%2CResizeObserver"></script>
+
+  <div id="fb-root" class="js-fb-root" data-app-id="502159173164171" data-locale="it_IT"></div>
+
+  <script src="/data/search-json.js?hash=9ab7e1c39e21b6675634a2397dc84c3c"></script>
+  <script src="https://static.vinted.com/assets/constants/it-fr-be40b3f76d70e0675935de9e30a631e65b81178ba29b32c14dbc657e8a027103.js"></script>
+  <script src="https://static.vinted.com/assets/libs-3e3df1f86d5cfe9a7a127a06f0954c6813b49b0ef722d3744bb80ef3d08fb84e.js"></script>
+
+  <script type="text/javascript">
+    (function(app) {
+      app.user = new Backbone.Model({"id":null,"sizes":[],"tests":{"sqp_ads":"on","sqp_required_brand":"on","global_identity":"on","sqp_clm_new_user_notifications":"on","cs_newbies_extra_support":"off","closet_promotion_horizontal_scroll":"on","three_day_auto_cancellation_removal":"on","web_expanded_navigation":"on","ad_personalization_banner_v2_app":"a","ad_personalization_banner_v3_app_color":"on","catalog_segments_apps":"on","sqp_updating_price_suggestion":"on","ad_personalization_banner_v3_app_bigger_button":"on","content_autotranslation":"off","top_level_shipping_selection":"on","bump_badge":"b","chronopost":"on","average_response_time_removal":"on","autobahn_phone_change":"on","autobahn_sms_resend":"on","new_member_free_bumps_campaign":"on","panda_wallet_confirmation_before_shipping":"on","shipping_option_random_preselect_algorithm":"b","dpd_shop_de":"on","nasa_delivery_time_and_shipment_delay":"b","dpd_home_de":"on","magic_item_page_buyer_protection":"on","unsuccessful_seller_boost_weight":"off","catalog_use_recommender":"model_sale","price_suggestion_by_currency":"on","item_pricing_details":"on","push_recommender_items_to_feed_canary":"on","catalog_reranker_canary_test_v3":"on","user_intent":"off","international_custom_shipping":"on","screens_2_onboarding_video":"on","checkout_buyer_protection_modal_update":"on","shipping_instructions_availability":"a","buyer_protection_fee_transparency":"off","fundraisers":"on","categories_in_search_new_layout":"on","homepage_categories":"off","cp_precheckout_screen_improvements":"on","facets_color":"on","catalog_boost_local_content_by_country":"1.4","non_integrated_package_sizes_removal":"b","balance_nationality":"b","int_hide_underperforming_foreign_books_2022_06":"on","bump_after_item_upload":"a","buyer_active_order":"on","featured_collection_v2":"off","delayed_publication":"off","enforce_men_items_experiment":"a","offers_cta_item_page":"b","autoreply_harm_test":"off","return_to_sender_flow_v1":"off","terms_checkbox":"on","multiword_suggestions":"on","category_scope_suggestions":"a","carriers_removal_from_web_item_page":"on","conversation_dto_split_android":"off","hc_contact_us_link_test":"on","push_prioritized_pickup_points_on_top":"off","ship_fast_badge":"off","recommended_items_block_in_homepage":"off","overlapping_pins_distribution":"on","in_app_browser_for_external_links":"on"}});
+      app.config = new Backbone.Model({"portal":"fr","domain":"vinted.it","flavour":"clothing","lang":"it-fr","lang_code":"fr","language_code":"it-fr","session_id":"1f0149594e5211e350d54e6c3268ccc6","country":{"id":18,"code":"IT","title":"Italie"},"portal_country_codes":["FR","BE","ES","LU","NL","LT","DE","AT","IT","GB","PT","US","CZ","SK","PL"],"zone":40,"tracking_data":null,"payments":{"provider":"svc_payments"},"postal_codes":{"format":"^\\d{5}$"},"feed":{"personal_feed_enabled":null,"regular_path":"/","discount_indices":[30,60]},"theme_colors":{"default_dominant_color":"#31abc2","default_dominant_color_opaque":"#d6eef3"},"screen":{"name":"item"},"is_bot":false,"feed_item_box":true,"maps_key":"AIzaSyDeflSpP-oIUAyBw07TDD-hlD5Lz-3thAc","saved_searches_enabled":false,"tracker_debug_pin":null,"anon_id":null,"has_web_token":false,"items_prefix":"vetements","badges_turned_off":false,"number_of_images_per_item":20,"list_another_item_prompt":false,"upload_restricted_to_status":true});
+    })(MD);
+  </script>
+
+  <script src="https://static.vinted.com/assets/core-e68b5dafea97a860ad3781a13bf82091eca6ac2a05ddc8c711421fad54d1fd75.js"></script>
+
+
+
+  
+
+  <script type="text/javascript">
+    (function() {
+      window.Common.init();
+    })();
+  </script>
+
+
+
+
+  
+
+  <script src="https://apis.google.com/js/client:platform.js" async defer></script>
+
+
+
+  <script src="https://www.vinted.it/btest/advertisement.js"></script>
+<script>
+  $(function() {
+    if (Math.random() <= 0.1) {
+      var adElement = document.getElementById('abtester');
+      $.post('/btest/counter', { blocked: adElement ? 0 : 1 });
+    }
+  });
+</script>
+
+  <script type="text/plain" class="optanon-category-C0002">
+/* <![CDATA[ */
+var google_conversion_id = 983209043;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/plain" class="optanon-category-C0002" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983209043/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+</aside>
+
+  
+  <script src="https://static.vinted.com/webpack/vendor-bundle-173b922a3ffc827c188a.js"></script>
+  <script src="https://static.vinted.com/webpack/app-bundle-09e2e9e42da3baebc404.js"></script>
+
+
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'74766b6ec9a924a4',m:'GXXTMfXv5zkyllCfjJa_OTduq0OcnrxVjllEDyugePQ-1662626849-0-AYC4p/xPZiW3L+ea9pO3xLiFk1qno0Iwbobs6+4xRx9dvfhsdMUtVjiUxXXYs10oTxYtOgbXeT0AvT754AGV9NuirGJwVnNd8eYARzMtI07N5C7C5vS9MouRKmwNt1cfKNRVI/i8VXmmCuzz5wu1s+UYdU8stAsjaXoqnFbsAXWkAuJ3kR8jBC9znJqN53vXAqQOkqH3aTApYDDyPsnJ87nmIJj9qdIYv39e+GK0CQ2I00vE1mooFgXOagJxyBuKIA==',s:[0x79d4c1d923,0xdabb26e372],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
